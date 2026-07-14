@@ -1,59 +1,58 @@
-# Cover Prompt Template
+# Cover Parameters Template
+
+First fill this block as an editable form. Then assemble a coherent prompt from it.
 
 ```text
-Article topic:
-(call automation, application development, AI agent workflow)
-
 Image type:
 (photograph, editorial illustration, 3D render)
 
 Main subject:
-(office employee, AI agent, server room)
+(AI agent, robot, office)
 
 Story:
-(analyzes a call, collects data, manages tasks)
+(analyzes a call, walks down a corridor, works at a computer)
 
 Era:
-(late 1990s, present day, near future)
+(late 90s, 1980s, near future)
 
 Genre:
-(tech thriller, corporate drama, science fiction)
+(sci-fi, corporate, cyberpunk)
 
 Artistic style:
-(editorial photography, isometric illustration, paper collage)
+(editorial illustration, Studio Ghibli, Bauhaus)
 
-Visual references:
-(early-2000s spy game, technology magazine, 1990s office cinema)
+Reference:
+(Blade Runner, Ghost in the Shell, Splinter Cell)
 
-Camera or image source:
-(film camera, CCTV, digital SLR)
+Camera / image source:
+(DSLR, CCTV, drone footage)
 
 Lens:
-(35 mm, 50 mm, wide-angle)
+(35mm, 50mm, fisheye)
 
 Angle:
-(eye level, top-down, over the shoulder)
+(top-down, eye level, bird's-eye view)
 
 Composition:
 (rule of thirds, symmetrical, centered)
 
 Lighting:
-(daylight through a window, harsh office light, neon)
+(cinematic lighting, golden hour, neon lighting)
 
 Color palette:
-(warm, cold blue, muted monochrome)
+(cool blue, teal & orange, monochrome)
 
-Materials and textures:
-(film grain, matte metal, paper texture)
+Materials / textures:
+(film grain, matte metal, watercolor paper)
 
 Detail level:
-(minimal, detailed, photorealistic)
+(minimalist, highly detailed, photorealistic)
 
 Atmosphere:
-(moderately tense, calm, ironic)
+(mysterious, tense, cozy)
 
 Post-processing:
-(VHS noise, vignette, chromatic aberration)
+(VHS, bloom, vignette)
 
 Format:
 (Habr cover, magazine cover, website hero image)
@@ -61,15 +60,9 @@ Format:
 Aspect ratio:
 (16:9, 1:1, 9:16)
 
-Title area:
-(left, right, top, not needed)
-
 Special requirements:
-(no text, quiet center, important objects away from edges)
-
-Exclude:
-(logos, watermarks, random text)
+(leave room for a title, no text in the image, plain center)
 
 Scene description:
-[What exactly is shown and what is happening.]
+[Describe in detail what is happening in the image.]
 ```
