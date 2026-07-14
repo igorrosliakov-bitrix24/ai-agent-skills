@@ -1,25 +1,32 @@
-# Personal Agent Skills
+# Personal Agent Skills Library
 
-Portable AI-agent skills for cover design.
+Portable AI-agent skills for repeatable writing, review, planning, prompting, fact-checking, and cover-design workflows.
+
+## Initial Skill Set
+
+- `article-review-en` / `article-review-ru`
+- `article-writing-en` / `article-writing-ru`
+- `cover-design-en` / `cover-design-ru`
+- `fact-checking-en` / `fact-checking-ru`
+- `habr-style-en` / `habr-style-ru`
+- `prompt-engineering-en` / `prompt-engineering-ru`
+- `software-project-planning-en` / `software-project-planning-ru`
+- `technical-explainer-en` / `technical-explainer-ru`
+
+Exact source dialogue is preserved in `transcripts/`.
 
 ## Structure
 
 ```text
 skills/
-├── cover-design-en/
-│   ├── SKILL.md
-│   ├── references/
-│   │   ├── prompt-template.md
-│   │   └── dialogue-context.md
-│   └── examples/
-│       └── 90s-office-cover.md
-└── cover-design-ru/
+├── <skill-name-en>/
+│   └── SKILL.md
+├── <skill-name-ru>/
+│   └── SKILL.md
+└── cover-design-*/
     ├── SKILL.md
     ├── references/
-    │   ├── prompt-template.md
-    │   └── dialogue-context.md
     └── examples/
-        └── 90s-office-cover.md
 ```
 
 ## Setup
@@ -27,15 +34,25 @@ skills/
 Codex:
 
 ```bash
-ln -s /PATH/TO/REPOSITORY/skills/cover-design-en ~/.codex/skills/cover-design-en
-ln -s /PATH/TO/REPOSITORY/skills/cover-design-ru ~/.codex/skills/cover-design-ru
+mkdir -p ~/.codex
+ln -s /PATH/TO/REPOSITORY/skills ~/.codex/skills
 ```
 
 Claude Code:
 
 ```bash
-ln -s /PATH/TO/REPOSITORY/skills/cover-design-en ~/.claude/skills/cover-design-en
-ln -s /PATH/TO/REPOSITORY/skills/cover-design-ru ~/.claude/skills/cover-design-ru
+mkdir -p ~/.claude
+ln -s /PATH/TO/REPOSITORY/skills ~/.claude/skills
 ```
 
 OpenCode and other agents can read the same `SKILL.md` files directly or through their own skills directory.
+
+## Repository Description
+
+Short:
+
+Portable AI-agent skills for reusable writing, planning, prompting, and cover-design workflows.
+
+Longer:
+
+A portable library of AI-agent skills for repeatable creative and technical workflows: article writing, editorial review, Habr-style publishing, prompt engineering, software project planning, technical explanations, fact-checking, and cover design in English and Russian.
