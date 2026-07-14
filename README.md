@@ -34,8 +34,8 @@ skills/
 Codex:
 
 ```bash
-mkdir -p ~/.codex
-ln -s /PATH/TO/REPOSITORY/skills ~/.codex/skills
+mkdir -p ~/.agents
+ln -s /PATH/TO/REPOSITORY/skills ~/.agents/skills
 ```
 
 Claude Code:
