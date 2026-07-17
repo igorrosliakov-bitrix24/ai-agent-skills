@@ -2,10 +2,11 @@
 
 Portable AI-agent skills for repeatable writing, review, planning, prompting, fact-checking, and cover-design workflows.
 
-## Initial Skill Set
+## Skill Set
 
 - `article-review-en` / `article-review-ru`
 - `article-writing-en` / `article-writing-ru`
+- `bitrix24-development-en` / `bitrix24-development-ru`
 - `cover-design-en` / `cover-design-ru`
 - `fact-checking-en` / `fact-checking-ru`
 - `habr-style-en` / `habr-style-ru`
@@ -23,10 +24,13 @@ skills/
 │   └── SKILL.md
 ├── <skill-name-ru>/
 │   └── SKILL.md
-└── cover-design-*/
+├── cover-design-*/
+│   ├── SKILL.md
+│   ├── references/
+│   └── examples/
+└── bitrix24-development-*/
     ├── SKILL.md
-    ├── references/
-    └── examples/
+    └── references/
 ```
 
 ## Setup
@@ -55,4 +59,4 @@ Portable AI-agent skills for reusable writing, planning, prompting, and cover-de
 
 Longer:
 
-A portable library of AI-agent skills for repeatable creative and technical workflows: article writing, editorial review, Habr-style publishing, prompt engineering, software project planning, technical explanations, fact-checking, and cover design in English and Russian.
+A portable library of AI-agent skills for repeatable creative and technical workflows: article writing, editorial review, Habr-style publishing, prompt engineering, software project planning, technical explanations, fact-checking, Bitrix24 application development, and cover design in English and Russian.
