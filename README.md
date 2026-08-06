@@ -13,6 +13,7 @@ Portable AI-agent skills for repeatable writing, review, planning, prompting, fa
 - `prompt-engineering-en` / `prompt-engineering-ru`
 - `software-project-planning-en` / `software-project-planning-ru`
 - `technical-explainer-en` / `technical-explainer-ru`
+- `transcription-ru`
 
 Exact source dialogue is preserved in `transcripts/`.
 
