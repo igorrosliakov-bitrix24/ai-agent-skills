@@ -34,5 +34,6 @@ After completing a practical development, configuration, validation, or deployme
 
 - Explain what it is, where it is used in the current project, and why it matters.
 - Add a short explanation in parentheses on the first use of a technical term.
-- Keep the explanation to 2–4 short sentences; do not turn the work report into a general lesson.
+- Keep the explanation to 5–7 sentences, split it into small paragraphs of 1–3 sentences, and do not turn the work report into a general lesson.
+- Explain one concrete mechanism from the current stage in order: where important data originates, how it moves, and where it is used.
 - Do not repeat an idea without a new reason; choose the next explanation from the current stage.
