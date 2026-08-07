@@ -30,7 +30,7 @@ Use this skill when the user wants to plan a software project, MVP, integration,
 
 ## Learning Handoff After Practice
 
-After completing a practical development, configuration, validation, or deployment stage, always add a separate highlighted block starting with `💡` that explains one idea actually used in the work: a security practice, architecture pattern, testing approach, Git technique, or another useful principle.
+After completing a practical development, configuration, validation, or deployment stage, always add a separate Markdown blockquote starting with `> **💡` that explains one idea actually used in the work: a security practice, architecture pattern, testing approach, Git technique, or another useful principle. Preserve the `>` prefix on every line so the interface renders a vertical line on the left.
 
 - Explain what it is, where it is used in the current project, and why it matters.
 - Add a short explanation in parentheses on the first use of a technical term.
