@@ -27,3 +27,13 @@ Use this skill when the user wants to plan a software project, MVP, integration,
 - Plan regular dependency updates, outdated-package checks, and known-vulnerability audits.
 - Do not put secrets in source code.
 - Test behavior, not only the happy path.
+
+## Learning Handoff After Practice
+
+After completing a practical development, configuration, validation, or deployment stage, add a short explanation of one idea that was actually used in the work: a security practice, architecture pattern, testing approach, Git technique, or another useful principle.
+
+- Explain what it is, where it is used in the current project, and why it matters.
+- Add one useful term or phrase for communicating with developers.
+- Keep the explanation to 3–6 sentences; do not turn the work report into a general lesson.
+- Do not repeat an idea without a new reason; choose the next explanation from the current stage.
+- Skip the explanation when the user explicitly requests only the result.
