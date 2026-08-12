@@ -21,3 +21,4 @@ Use this skill when the user is preparing a Habr article or wants to move materi
 - Do not imitate a specific author's or publication's style.
 - Do not add facts or cases without support.
 - Do not turn a technical article into a press release.
+- Keep lists short: three items by default, with a fourth only when it is essential to the meaning. When there are many examples, choose one or two representative ones and explain the general principle in prose.

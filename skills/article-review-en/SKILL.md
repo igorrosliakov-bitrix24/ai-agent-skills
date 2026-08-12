@@ -22,3 +22,4 @@ Use this skill when the user asks to review an article, improve readability, fin
 - Do not overwrite the author's voice without a reason.
 - Separate errors, recommendations, and optional improvements.
 - Do not invent sources for fact-checking.
+- Review lists separately. Recommend reducing them to three items; retain a fourth only when it carries essential meaning. Turn illustrative lists into a short phrase with one or two representative examples, and check that lists alternate with normal prose.

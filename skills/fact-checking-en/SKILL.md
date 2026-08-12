@@ -21,3 +21,4 @@ Use this skill when the user asks to verify facts, claims, numbers, dates, names
 - Do not invent sources.
 - Do not present an assumption as a fact.
 - Include dates when a fact may become outdated.
+- In explanations and corrected wording, do not overuse lists: use at most three items by default. Longer lists are acceptable for checked claims, sources, or rules when shortening would distort the result.

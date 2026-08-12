@@ -67,6 +67,10 @@ A dashboard inside the portal cannot be opened from outside: the session exists 
 3. Exercise the states: loading, error, empty, missing rate, currency without a rate, opened outside a card, and a title containing HTML.
 4. The final run in a live card belongs to the user — say honestly that you have not seen it yourself.
 
+## Text Style
+
+- In explanations and examples, do not overuse lists: use at most three items by default. Longer lists are acceptable for required rules, states, checks, or API parameters when shortening would break the meaning.
+
 ## Materials
 
 - VibeCode deploy and keys note: `references/vibecode-deploy.md`

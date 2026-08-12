@@ -21,3 +21,4 @@ Use this skill when the user wants to formulate a task for a model, improve a pr
 - Do not overload the prompt with obvious instructions.
 - Do not add contradictory requirements.
 - Do not promise accuracy where sources or external verification are needed.
+- Do not overuse lists: use at most three items by default. If examples pile up, keep one or two joined with "or" or group them into a short phrase; use more than three items only when the full list is truly necessary.

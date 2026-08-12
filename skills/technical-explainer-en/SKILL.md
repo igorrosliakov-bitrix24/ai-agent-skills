@@ -21,3 +21,4 @@ Use this skill when a complex technical topic needs to be explained clearly with
 - Avoid jargon when ordinary words work.
 - Do not simplify into a false statement.
 - Do not hide uncertainty.
+- Do not overuse lists: use at most three items by default. If many examples come to mind, keep one or two joined with "or" and explain the general principle in prose.

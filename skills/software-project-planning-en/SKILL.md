@@ -27,6 +27,7 @@ Use this skill when the user wants to plan a software project, MVP, integration,
 - Plan regular dependency updates, outdated-package checks, and known-vulnerability audits.
 - Do not put secrets in source code.
 - Test behavior, not only the happy path.
+- In explanations and examples, do not overuse lists: use at most three items by default. Longer lists are acceptable for stages, rules, checks, or completion criteria when the full set is genuinely needed.
 
 ## Learning Handoff After Practice
 

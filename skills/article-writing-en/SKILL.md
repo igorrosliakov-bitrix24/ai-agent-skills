@@ -22,3 +22,4 @@ Use this skill when the user wants to write an article, turn an idea into a stru
 - Preserve the author's voice when the user provides a draft.
 - Do not invent facts, numbers, or sources.
 - Mark places where data, examples, or verification are needed.
+- Keep lists to three items by default. Add a fourth only when omitting it changes the meaning. When a list merely illustrates an idea, prefer a short phrase with one or two representative examples. Alternate lists with prose, examples, and concise summaries so the article does not read like a catalogue.
