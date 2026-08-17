@@ -18,6 +18,14 @@ Use this skill when the user wants to plan a software project, MVP, integration,
 
 ## Engineering Rules
 
+### 5 Professional Vibe-Coding Rules
+
+- Choose strict typing: TypeScript, Java, Kotlin, Rust, or another strongly typed language; for Python, PHP, or JavaScript, add annotations, schemas, and runtime validators.
+- Always include a linter and make it a required check before finishing the task.
+- Require tests for every code change, run the relevant tests, and cover more than the happy path.
+- Measure test coverage: at least 70%, target 80%, and raise it for critical logic.
+- Validate input data, minimize frameworks and dependencies, and regularly check updates and known vulnerabilities.
+
 - Choose a strictly typed language. When that is not possible, add explicit schemas or runtime type validators at system boundaries.
 - Always include a linter and make linting part of the required checks.
 - Require every code change to add or update tests and run all tests relevant to the change. When AI performs implementation work, state this requirement explicitly in every code-change prompt.
@@ -28,6 +36,8 @@ Use this skill when the user wants to plan a software project, MVP, integration,
 - Do not put secrets in source code.
 - Test behavior, not only the happy path.
 - In explanations and examples, do not overuse lists: use at most three items by default. Longer lists are acceptable for stages, rules, checks, or completion criteria when the full set is genuinely needed.
+- In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
+- Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.
 
 ## Learning Handoff After Practice
 

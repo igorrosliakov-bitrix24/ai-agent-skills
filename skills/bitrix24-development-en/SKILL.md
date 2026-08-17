@@ -71,6 +71,12 @@ A dashboard inside the portal cannot be opened from outside: the session exists 
 
 - In explanations and examples, do not overuse lists: use at most three items by default. Longer lists are acceptable for required rules, states, checks, or API parameters when shortening would break the meaning.
 
+## Development Rules
+
+- Before implementation, follow the 5 professional vibe-coding rules: strict typing, required linting, tests for every change, coverage measurement, and input validation with dependency control.
+- For Bitrix24 apps, pay special attention to data boundaries: placement query parameters, REST responses, CRM titles, currencies, stages, and any values coming from the portal.
+- If the stack or platform blocks one rule, state the compromise and add the closest guardrail: a schema, runtime validator, smoke test, linter config, or explicit check.
+
 ## Materials
 
 - VibeCode deploy and keys note: `references/vibecode-deploy.md`
