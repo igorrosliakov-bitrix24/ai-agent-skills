@@ -6,6 +6,7 @@ Portable AI-agent skills for repeatable writing, review, planning, prompting, fa
 
 - `article-review-en` / `article-review-ru`
 - `article-writing-en` / `article-writing-ru`
+- `bitrix24-deploy-ru`
 - `bitrix24-development-en` / `bitrix24-development-ru`
 - `cover-design-en` / `cover-design-ru`
 - `fact-checking-en` / `fact-checking-ru`
