@@ -22,3 +22,5 @@ Use this skill when the user asks to verify facts, claims, numbers, dates, names
 - Do not present an assumption as a fact.
 - Include dates when a fact may become outdated.
 - In explanations and corrected wording, do not overuse lists: use at most three items by default. Longer lists are acceptable for checked claims, sources, or rules when shortening would distort the result.
+- In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
+- Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.

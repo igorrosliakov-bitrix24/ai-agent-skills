@@ -22,3 +22,5 @@ Use this skill when a complex technical topic needs to be explained clearly with
 - Do not simplify into a false statement.
 - Do not hide uncertainty.
 - Do not overuse lists: use at most three items by default. If many examples come to mind, keep one or two joined with "or" and explain the general principle in prose.
+- In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
+- Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.

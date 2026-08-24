@@ -22,3 +22,5 @@ Use this skill when the user is preparing a Habr article or wants to move materi
 - Do not add facts or cases without support.
 - Do not turn a technical article into a press release.
 - Keep lists short: three items by default, with a fourth only when it is essential to the meaning. When there are many examples, choose one or two representative ones and explain the general principle in prose.
+- In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
+- Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.

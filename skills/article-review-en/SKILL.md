@@ -23,3 +23,5 @@ Use this skill when the user asks to review an article, improve readability, fin
 - Separate errors, recommendations, and optional improvements.
 - Do not invent sources for fact-checking.
 - Review lists separately. Recommend reducing them to three items; retain a fourth only when it carries essential meaning. Turn illustrative lists into a short phrase with one or two representative examples, and check that lists alternate with normal prose.
+- Check that every bulleted-list item starts with a capital letter and ends with a period. When a colon introduces a list that continues a sentence, check that every item reads grammatically with the lead-in and suggest a correction when it does not.
+- Flag unnecessary semicolons and suggest a period, comma, or sentence rewrite. Retain a semicolon only when it is necessary to preserve the precise structure or meaning of a sentence.

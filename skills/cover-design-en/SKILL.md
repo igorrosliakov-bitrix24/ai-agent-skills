@@ -102,6 +102,8 @@ Do not replace this block with a brief bullet list. The user needs it as a worki
 - Do not add random holograms, robots, or neon just because the topic mentions AI.
 - Check that the cover communicates the article's meaning and remains readable at small size.
 - Keep example lists short: at most three options by default. When showing a range, choose one or two representative examples joined with "or" and explain the principle in prose.
+- In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
+- Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.
 
 ## Materials
 

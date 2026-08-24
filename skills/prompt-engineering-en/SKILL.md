@@ -22,3 +22,5 @@ Use this skill when the user wants to formulate a task for a model, improve a pr
 - Do not add contradictory requirements.
 - Do not promise accuracy where sources or external verification are needed.
 - Do not overuse lists: use at most three items by default. If examples pile up, keep one or two joined with "or" or group them into a short phrase; use more than three items only when the full list is truly necessary.
+- In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
+- Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.
