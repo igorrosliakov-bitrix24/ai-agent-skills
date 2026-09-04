@@ -9,6 +9,7 @@ Portable AI-agent skills for repeatable writing, review, planning, prompting, fa
 - `bitrix24-deploy-ru`
 - `bitrix24-development-en` / `bitrix24-development-ru`
 - `cover-design-en` / `cover-design-ru`
+- `cowork-code-articles-ru`
 - `fact-checking-en` / `fact-checking-ru`
 - `habr-style-en` / `habr-style-ru`
 - `prompt-engineering-en` / `prompt-engineering-ru`
