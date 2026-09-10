@@ -21,6 +21,7 @@ Use this skill when the user asks to review an article, improve readability, fin
 - Start with the most important issues.
 - Do not overwrite the author's voice without a reason.
 - Separate errors, recommendations, and optional improvements.
+- For editorial recommendations, provide the exact replacement text whenever possible, not just the direction of the edit. A short explanation is useful, but it should sit next to the ready-to-use fragment rather than replace it.
 - Do not invent sources for fact-checking.
 - Review lists separately. Recommend reducing them to three items; retain a fourth only when it carries essential meaning. Turn illustrative lists into a short phrase with one or two representative examples, and check that lists alternate with normal prose.
 - Check that every bulleted-list item starts with a capital letter and ends with a period. When a colon introduces a list that continues a sentence, check that every item reads grammatically with the lead-in and suggest a correction when it does not.
