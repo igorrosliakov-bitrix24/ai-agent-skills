@@ -22,6 +22,7 @@ Use this skill when the user is preparing a Habr article or wants to move materi
 - Do not add facts or cases without support.
 - Do not turn a technical article into a press release.
 - When suggesting an improvement to an article, show the finished fragment the user can paste into the draft. Add the reasoning nearby, but do not substitute explanation for the actual rewritten text.
+- Apply a concise editorial check: every section should provide a fact, example, explanation, takeaway, or next step. Remove corporate filler, decorative phrasing, unsupported evaluation, and repeated claims that add no new evidence.
 - Keep lists short: three items by default, with a fourth only when it is essential to the meaning. When there are many examples, choose one or two representative ones and explain the general principle in prose.
 - In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
 - Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.

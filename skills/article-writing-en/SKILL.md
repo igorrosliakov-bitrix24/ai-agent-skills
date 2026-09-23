@@ -21,8 +21,10 @@ Use this skill when the user wants to write an article, turn an idea into a stru
 - Write clearly, without corporate filler or unnecessary marketing language.
 - Preserve the author's voice when the user provides a draft.
 - When suggesting an edit, do not give only directional advice such as "make this shorter" or "explain this part." Provide the exact ready-to-insert text first, then add a brief note before or after the full fragment explaining what changed and why.
+- Edit in the spirit of concise informational writing: first check structure and meaning, then paragraphs, sentences, and words. Remove filler, decorative phrasing that does no work, unsupported evaluation, and paragraphs that do not explain, prove, advance, or illustrate the point.
 - Do not invent facts, numbers, or sources.
 - Mark places where data, examples, or verification are needed.
+- Prefer concrete facts to vague evaluation: not "we improved efficiency," but "we reduced manual review from 40 minutes to 7." Show the fact, action, or result before the conclusion.
 - Keep lists to three items by default. Add a fourth only when omitting it changes the meaning. When a list merely illustrates an idea, prefer a short phrase with one or two representative examples. Alternate lists with prose, examples, and concise summaries so the article does not read like a catalogue.
 - In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
 - Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.
