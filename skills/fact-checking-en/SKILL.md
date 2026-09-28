@@ -23,6 +23,7 @@ Use this skill when the user asks to verify facts, claims, numbers, dates, names
 - Include dates when a fact may become outdated.
 - When suggesting safer wording for a risky or unsupported claim, provide the exact text to use, not only a note like "clarify this" or "rephrase this." Add a brief explanation of which factual risk the wording reduces.
 - In corrected wording, apply concise informational writing principles: remove unsupported evaluation, filler, and decorative phrasing. Put the verifiable fact or careful limitation before the conclusion.
+- Do not add caveats only for formal safety. A limitation belongs in the wording when omitting it would make the claim false, imply more than the source supports, or create a practically important wrong conclusion.
 - In explanations and corrected wording, do not overuse lists: use at most three items by default. Longer lists are acceptable for checked claims, sources, or rules when shortening would distort the result.
 - In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
 - Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.

@@ -23,6 +23,7 @@ Use this skill when a complex technical topic needs to be explained clearly with
 - Do not hide uncertainty.
 - When explaining how to rewrite a passage, provide ready-to-use text, not only advice such as "make it shorter" or "explain it more simply." Follow the fragment with a brief note about the technique when that helps.
 - Apply concise editorial principles: remove filler, unsupported evaluation, decorative phrasing, and repetition. Show the fact, action, or example before drawing the conclusion.
+- Do not add caveats only for formal safety. If the explanation is accurate enough and does not create a meaningful misunderstanding, state it directly. Keep a limitation only when omitting it would make the claim false or practically misleading.
 - Do not overuse lists: use at most three items by default. If many examples come to mind, keep one or two joined with "or" and explain the general principle in prose.
 - In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
 - Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.

@@ -24,7 +24,9 @@ Use this skill when the user wants to write an article, turn an idea into a stru
 - Edit in the spirit of concise informational writing: first check structure and meaning, then paragraphs, sentences, and words. Remove filler, decorative phrasing that does no work, unsupported evaluation, and paragraphs that do not explain, prove, advance, or illustrate the point.
 - Do not invent facts, numbers, or sources.
 - Mark places where data, examples, or verification are needed.
+- Do not add caveats only for formal safety. If a claim is accurate enough and does not create a meaningful misunderstanding, state it directly. Add a caveat only when the claim would otherwise become false, imply more than the source supports, or lead the reader to a practically important wrong conclusion.
 - Prefer concrete facts to vague evaluation: not "we improved efficiency," but "we reduced manual review from 40 minutes to 7." Show the fact, action, or result before the conclusion.
+- For technical articles, use this priority order: clear takeaway, supporting fact or measurement, then a material limitation if it changes the takeaway. Do not turn every point into a list of edge cases and obvious theoretical exceptions.
 - Keep lists to three items by default. Add a fourth only when omitting it changes the meaning. When a list merely illustrates an idea, prefer a short phrase with one or two representative examples. Alternate lists with prose, examples, and concise summaries so the article does not read like a catalogue.
 - In bulleted lists, start every item with a capital letter and end it with a period. When a colon introduces a list that continues a sentence, make every item read grammatically with the lead-in.
 - Avoid semicolons unless they are necessary to preserve the precise structure or meaning of a sentence.
